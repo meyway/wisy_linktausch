@@ -1,6 +1,8 @@
 #MACOSX
 .DS_Store
 *.DS_Store
+
+#Eclipse
 .buildpath
 .git
 .git/*
