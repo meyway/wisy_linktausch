@@ -1,6 +1,6 @@
 <!-- Linktausch -->
 
-<script type="text/javascript" defer>
+<script type="text/javascript">
 
 var counter_url = "/files/hh/hamburgaktiv/linktausch/statistik/partnerprogramm.php";
 var referrer_type = "";
