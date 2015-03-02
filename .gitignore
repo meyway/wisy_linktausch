@@ -1,0 +1,9 @@
+#MACOSX
+.DS_Store
+*.DS_Store
+.buildpath
+.git
+.git/*
+.project
+.settings
+.settings/*
